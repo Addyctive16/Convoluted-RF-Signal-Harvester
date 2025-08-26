@@ -12,7 +12,7 @@ Radio frequency (RF) signals are everywhere, powering our IoT devices, mobile ne
 - **IoT Compatibility:** Targets emissions from IoT sensors and RF sources.
 - **User-Friendly Interface:** Streamlit app for system monitoring and visualization.
 
-![alt text](<DALL·E 2024-12-15 13.03.48 - A conceptual illustration showing the process of converting radio frequency (RF) signals emitted by an IoT sensor into usable energy using a CMOS rect.webp>)
+![Hybrid CMOS Rectifier Sourced RF Energy Harvester](<Hybrid CMOS Rectifier Sourced RF Energy Harvester.webp>)
 
 ## Why This Matters
 
@@ -38,7 +38,8 @@ Energy Harvested = 0.01 × 10 × 0.5 = 0.05 mW
 While the energy per device is small, harvesting from 1,000 devices in an urban setup could significantly power multiple low-energy devices, like environmental sensors or smart city infrastructure.
 
 **SAMPLE DETECTED RF SIGNAL IMAGE BY PROPOSED MODEL**
-![alt text](<Screenshot (125)-1.png>)
+
+![alt text](<RF DETECTED SAMPLE.png>)
 
 ## Technical Stack
 
@@ -51,8 +52,8 @@ While the energy per device is small, harvesting from 1,000 devices in an urban 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RF-Energy-Harvester.git
-   cd RF-Energy-Harvester
+   git clone https://github.com/Addyctive16/Convoluted-RF-Signal-Harvester
+   cd Convoluted-RF-Signal-Harvester
    ```
 2. Install dependencies:
    ```bash
@@ -85,5 +86,3 @@ Contributions are welcome! Open an issue or submit a pull request with suggestio
 ## Acknowledgments
 
 Special thanks to Nokia Ideathon for inspiring this project and to researchers in RF energy harvesting and IoT sustainability.
-
-"# Convoluted-RF-Signal-Harvester" 
